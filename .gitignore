@@ -1,0 +1,29 @@
+# Ignore system files
+.DS_Store
+Thumbs.db
+
+# Ignore personal files
+*.pdf
+*.docx
+*.pptx
+*.jpg
+*.png
+*.jpeg
+*.zip
+*.exe
+
+# Ignore datasets
+data/
+*.csv
+
+# Ignore models
+models/
+*.pkl
+
+# Ignore python cache
+__pycache__/
+*.pyc
+
+# Ignore Jupyter notebook cache
+.ipynb_checkpoints/
+
